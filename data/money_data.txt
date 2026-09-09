@@ -1,0 +1,130 @@
+Date and Time: 2024-01-04 13:11:48
+Earned Money: 2.50 KM
+Fives Balance: 6
+Twos Balance: 4
+Ones Balance: 5
+Halves Balance: 4
+Date and Time: 2024-01-04 13:13:45
+Earned Money: 2.50 KM
+Fives Balance: 6
+Twos Balance: 4
+Ones Balance: 5
+Halves Balance: 4
+Date and Time: 2024-01-04 13:14:27
+Earned Money: 6.00 KM
+Fives Balance: 6
+Twos Balance: 4
+Ones Balance: 7
+Halves Balance: 7
+Date and Time: 2024-01-04 13:34:04
+Earned Money: 2.50 KM
+Fives Balance: 5
+Twos Balance: 6
+Ones Balance: 5
+Halves Balance: 6
+Date and Time: 2024-01-04 13:34:31
+Earned Money: 2.50 KM
+Fives Balance: 5
+Twos Balance: 7
+Ones Balance: 5
+Halves Balance: 7
+Date and Time: 2024-01-04 13:37:47
+Earned Money: 3.00 KM
+Fives Balance: 5
+Twos Balance: 8
+Ones Balance: 6
+Halves Balance: 7
+Total Money: 4.550000e+01
+
+
+
+Date and Time: 2024-01-04 13:42:08
+Earned Money: 8.00 KM
+Fives Balance: 5
+Twos Balance: 9
+Ones Balance: 7
+Halves Balance: 7
+Total Money: 5.350000e+01
+
+
+
+Date and Time: 2024-01-04 13:44:01
+Earned Money: 3.00 KM
+Fives Balance: 6
+Twos Balance: 8
+Ones Balance: 7
+Halves Balance: 7
+Total Money: 56.50
+
+
+
+Date and Time: 2024-01-04 14:07:19
+Earned Money: 2.50 KM
+Fives Balance: 7
+Twos Balance: 7
+Ones Balance: 7
+Halves Balance: 6
+Total Money: 59.00
+
+
+
+Date and Time: 2024-01-04 14:09:28
+Earned Money: 3.00 KM
+Fives Balance: 7
+Twos Balance: 8
+Ones Balance: 8
+Halves Balance: 6
+Total Money: 62.00
+
+
+
+Date and Time: 2024-01-04 14:17:56
+Earned Money: 2.00 KM
+Fives Balance: 7
+Twos Balance: 9
+Ones Balance: 8
+Halves Balance: 6
+Total Money: 64.00
+
+
+
+Date and Time: 2024-01-04 14:24:54
+Earned Money: 6.00 KM
+Fives Balance: 8
+Twos Balance: 9
+Ones Balance: 9
+Halves Balance: 6
+Total Money: 70.00
+
+
+
+Date and Time: 2024-01-04 14:31:55
+Earned Money: 3.00 KM
+Fives Balance: 9
+Twos Balance: 8
+Ones Balance: 9
+Halves Balance: 6
+Total Money: 73.00
+
+
+
+Date and Time: 2024-01-04 15:09:35
+Earned Money: 3.00 KM
+Fives Balance: 9
+Twos Balance: 8
+Ones Balance: 10
+Halves Balance: 10
+Total Money: 76.00
+
+
+
+Date and Time: 2024-01-04 15:27:28
+Earned Money: 2.00 KM
+Fives Balance: 10
+Twos Balance: 7
+Ones Balance: 9
+Halves Balance: 10
+Total Money: 78.00
+
+
+
